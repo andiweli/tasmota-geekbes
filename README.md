@@ -1,6 +1,6 @@
 # GEEKBES SP1 TASMOTA TEMPLATE
 
-Smart Plug Model SP1\n
+Smart Plug Model SP1
 Wireless type Wi-Fi 2.4GHz
 Input AC 100-240V
 Max load 2200W 10A
