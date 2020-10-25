@@ -2,9 +2,9 @@
 
 GEEKBES SP1 TASMOTA TEMPLATE
 
-Smart Plug Model SP1
+Smart Plug Model SP1/n
 Wireless type Wi-Fi 2.4GHz
-Input AC 100-240 V
+Input AC 100-240V
 Max load 2200W 10A
 
 The official template datebase over at https://templates.blakadder.com/ doesn't include a template for the rare "Geekbes SP1" single outlet.
