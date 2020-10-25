@@ -1,6 +1,6 @@
 # tasmota-geekbes
 
-#GEEKBES SP1 TASMOTA TEMPLATE
+# GEEKBES SP1 TASMOTA TEMPLATE
 
 Smart Plug Model SP1
 Wireless type Wi-Fi 2.4GHz
