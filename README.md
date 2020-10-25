@@ -1,5 +1,3 @@
-# tasmota-geekbes
-
 # GEEKBES SP1 TASMOTA TEMPLATE
 
 Smart Plug Model SP1
