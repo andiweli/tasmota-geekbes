@@ -1,4 +1,4 @@
-# GEEKBES SP1 TASMOTA TEMPLATE
+# GEEKBES SP1 Tasmota Template
 
 * Smart Plug Model SP1
 * Wireless type Wi-Fi 2.4GHz
@@ -11,3 +11,5 @@ It seems the device has been discontinued a few years ago. Even Amazon - where I
 
 It offers nearly the same functions (including power monitoring) as the "Gosund SP1".
 The SP1 from Geekbes won't work with the template of the Gosund outlet.
+
+<addr>{"NAME":"Geekbes SP1","GPIO":[57,255,56,255,0,134,0,0,131,17,132,21,0],"FLAG":0,"BASE":45}</addr>
