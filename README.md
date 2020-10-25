@@ -1,4 +1,6 @@
-# tasmota-templates
+# tasmota-geekbes
+
+Template for Geekbes SP1 single outlet
 
 The official template datebase over at https://templates.blakadder.com/ doesn't include a template for the rare "Geekbes SP1" single outlet.
 
